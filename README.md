@@ -11,7 +11,7 @@ Key Features:
 3.Maintaing the data: The list of overrated movies with details such as release year, director, cast, and box office performance.
 4.Reviews and Ratings Filter: Based on the reviews and the ratings given by users are filtered and than based on that movie is considered overated or not.
 
-Tech Stack:
+#### Tech Stack:
 
 Frontend: HTML,CSS, React.
 
