@@ -14,7 +14,7 @@ Key Features:
 #### Tech Stack:
 
 Frontend: HTML,CSS, React.
-
-Backend:Node JS, MongoDB.
+Backend:Node JS, MongoDB,bruno.
 
 Why This Project: This project is interesting as it combines technology with film criticism, allowing users to engage with cinema in a meaningful way. By working on this project, I will develop valuable skills in full-stack development, including frontend and backend technologies, and user experience design. Additionally, I will gain insights into the dynamics of online communities and the role of user-generated content in shaping opinions. Ultimately, this project aims to create a vibrant space for film lovers to connect, critique, and celebrate cinema.
+
