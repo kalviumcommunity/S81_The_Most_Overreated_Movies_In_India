@@ -1,4 +1,4 @@
-day1:
+### day1:
 # Project Title:
 THE MOST OVERRATED MOVIES IN INDIA
 
@@ -20,16 +20,16 @@ Backend:Node JS, MongoDB,bruno.
 Why This Project: This project is interesting as it combines technology with film criticism, allowing users to engage with cinema in a meaningful way. By working on this project, I will develop valuable skills in full-stack development, including frontend and backend technologies, and user experience design. Additionally, I will gain insights into the dynamics of online communities and the role of user-generated content in shaping opinions. Ultimately, this project aims to create a vibrant space for film lovers to connect, critique, and celebrate cinema.
 
 
-day2:
+### day2:
 I installed all the dependences by installing:
 git init
 npm i express dotenv mongoose nodemon
 
 Then I crated .gitignore file and than add node_modules in it.
 
-
-day3:
+### day3:
 I created a basic server by creating server.js file.
 
-day4:
+### day4:
+Render Deployment:
 deploying link https://s81-the-most-overreated-movies-in-india-3.onrender.com
