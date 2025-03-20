@@ -8,7 +8,7 @@ const port = 6542;
 
 app.get('/test', (req, res) => {
     res.send('HI');
-});
+}); 
 
 
 app.listen(port, () => { 
